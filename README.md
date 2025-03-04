@@ -9,6 +9,7 @@
   - local-ssl-proxy
 - [Libraries](#libraries)
   - [Python](#python)
+    - IceCream
     - Vaex
 - [References/Documents](#referencesdocuments)
   - Al-Khaser
@@ -34,6 +35,7 @@
 ### Python
 | Name | 👀 | About |
 |------|-----|-------|
+| [IceCream](https://github.com/gruns/icecream) | <img width="256px" src="https://opengraph.githubassets.com/86b9b2429c14ef7589e4fe9beacc21d36d4cb1867786f4539c99c3784802ffa4/gruns/icecream"> | 🍦 Never use print() to debug again. |
 | [Vaex](https://github.com/vaexio/vaex) | <img width="256px" src="https://opengraph.githubassets.com/3dfd0460a3ee64b6603742724e11e59aa745d3b06a116f2d3bef09254e7df769/vaexio/vaex"> | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second |
 
 ## References/Documents
