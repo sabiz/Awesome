@@ -14,26 +14,26 @@
   - piping-server
 
 ## Checker/Linter
-| Name | About |
-|------|-------|
-| [Dockle](https://github.com/goodwithtech/dockle) | Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start |
-| [OpenSSF Scorecard](https://github.com/ossf/scorecard) | OpenSSF Scorecard - Security health metrics for Open Source |
+| Name | 👀 | About |
+|------|-----|-------|
+| [Dockle](https://github.com/goodwithtech/dockle) | <img width="256px" src="https://opengraph.githubassets.com/5be6663ea35defd532b32e355728c9725254d20f5f224f9150ee6b385cd90c6f/goodwithtech/dockle"> | Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start |
+| [OpenSSF Scorecard](https://github.com/ossf/scorecard) | <img width="256px" src="https://opengraph.githubassets.com/59e2898803765951b97c3c8b001a7c35c6db89dc17c23c9d96f7ffc736bce237/ossf/scorecard"> | OpenSSF Scorecard - Security health metrics for Open Source |
 
 ## Develop
-| Name | About |
-|------|-------|
-| [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data |
-| [HTTPie](https://github.com/httpie/cli) | 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
-| [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
+| Name | 👀 | About |
+|------|-----|-------|
+| [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) | <img width="256px" src="https://opengraph.githubassets.com/61b9b8e561582a841c686682142e11a03a2799feb10db748ae6508bab3d4a529/minimaxir/big-list-of-naughty-strings"> | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data |
+| [HTTPie](https://github.com/httpie/cli) | <img width="256px" src="https://repository-images.githubusercontent.com/3544424/71668a1d-1b65-42c4-b8ac-981b8fd46dee"> | 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
+| [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | <img width="256px" src="https://opengraph.githubassets.com/74175b440a485ea5cf18015211675ab9445d6e03b7795e7e6f076a0e33e8ef86/cameronhunter/local-ssl-proxy"> | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 
 ## References/Documents
-| Name | About |
-|------|-------|
-| [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
-| [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | The complete list of descriptions given when FindBugs identify potential weaknesses. |
+| Name | 👀 | About |
+|------|-----|-------|
+| [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | <img width="256px" src="https://opengraph.githubassets.com/276b43d3ebe7d0919d793bb0c060d47bd1fe2cd0a8ca49f3bdbdd1502d3e0ad9/ayoubfaouzi/al-khaser"> | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
+| [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | | The complete list of descriptions given when FindBugs identify potential weaknesses. |
 
 
 ## Tools
-| Name | About |
-|------|-------|
-| [piping-server](https://github.com/nwtgck/piping-server-rust) | Infinitely transfer between every device over pure HTTP with pipes or browsers |
+| Name | 👀 | About |
+|------|-----|-------|
+| [piping-server](https://github.com/nwtgck/piping-server-rust) | <img width="256px" src="https://opengraph.githubassets.com/f04d4945f48766c9916da66a7b4c81f3918d9c7a8f73ef659535a6173ae3087b/nwtgck/piping-server-rust"> | Infinitely transfer between every device over pure HTTP with pipes or browsers |
