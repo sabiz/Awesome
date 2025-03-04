@@ -7,7 +7,7 @@
   - Big List of Naughty Strings
   - HTTPie
   - local-ssl-proxy
-- [References](#references)
+- [References/Documents](#referencesdocuments)
   - Al-Khaser
   - Bugs Patterns
 - [Tools](#tools)
@@ -26,7 +26,7 @@
 | [HTTPie](https://github.com/httpie/cli) | 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 
-## References
+## References/Documents
 | Name | About |
 |------|-------|
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
