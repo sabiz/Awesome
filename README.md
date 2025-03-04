@@ -23,6 +23,7 @@
   - Al-Khaser
   - Bugs Patterns
   - HowToHunt.md
+  - Interpretable Machine Learning
   - Node.js Best Practices
   - theZoo - A Live Malware Repository
 - [Tools](#tools)
@@ -69,6 +70,7 @@
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | <img width="256px" src="https://opengraph.githubassets.com/276b43d3ebe7d0919d793bb0c060d47bd1fe2cd0a8ca49f3bdbdd1502d3e0ad9/ayoubfaouzi/al-khaser"> | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
 | [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | | The complete list of descriptions given when FindBugs identify potential weaknesses. |
 | [HowToHunt.md](https://kathan19.gitbook.io/howtohunt) | <img width="256px" src="https://opengraph.githubassets.com/1ad8ee06f3c446f7b1aa158867c53f9679b1875ce7c7ec40a1df6297836926c5/KathanP19/HowToHunt"> | Collection of methodology and test case for various web vulnerabilities. |
+| [Interpretable Machine Learning](https://hacarus.github.io/interpretable-ml-book-ja/) |  | Machine learning algorithms usually operate as black boxes and it is unclear how they derived a certain decision. This book is a guide for practitioners to make machine learning decisions interpretable. |
 | [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) | <img width="256px" src="https://opengraph.githubassets.com/e745031194f02cf98cfea8fffe5c7a7273bde8ba512012ef4598da3de5cb66e9/goldbergyoni/nodebestpractices"> | ✅ The Node.js best practices list |
 | [theZoo - A Live Malware Repository](https://github.com/ytisf/theZoo) | <img width="256px" src="https://opengraph.githubassets.com/0671d6b8e0273b0e06e6466abcc5816081a7dafd5cc15402f9c7ca9c3753b16e/ytisf/theZoo"> | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. |
 
