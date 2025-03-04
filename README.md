@@ -9,6 +9,7 @@
   - local-ssl-proxy
 - [References](#references)
   - Al-Khaser
+  - Bugs Patterns
 - [Tools](#tools)
   - piping-server
 
@@ -29,6 +30,7 @@
 | Name | About |
 |------|-------|
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
+| [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | The complete list of descriptions given when FindBugs identify potential weaknesses. |
 
 
 ## Tools
