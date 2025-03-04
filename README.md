@@ -1,8 +1,14 @@
 # Awesome💮
 
+- [References](#references)
+  - Al-Khaser
 - [Tools](#tools)
   - piping-server
 
+## References
+| Name | About |
+|------|-------|
+| [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
 
 
 ## Tools
