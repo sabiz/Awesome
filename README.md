@@ -7,6 +7,9 @@
   - Big List of Naughty Strings
   - HTTPie
   - local-ssl-proxy
+- [Libraries](#libraries)
+  - [Python](#python)
+    - Vaex
 - [References/Documents](#referencesdocuments)
   - Al-Khaser
   - Bugs Patterns
@@ -26,6 +29,12 @@
 | [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) | <img width="256px" src="https://opengraph.githubassets.com/61b9b8e561582a841c686682142e11a03a2799feb10db748ae6508bab3d4a529/minimaxir/big-list-of-naughty-strings"> | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data |
 | [HTTPie](https://github.com/httpie/cli) | <img width="256px" src="https://repository-images.githubusercontent.com/3544424/71668a1d-1b65-42c4-b8ac-981b8fd46dee"> | 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | <img width="256px" src="https://opengraph.githubassets.com/74175b440a485ea5cf18015211675ab9445d6e03b7795e7e6f076a0e33e8ef86/cameronhunter/local-ssl-proxy"> | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
+
+## Libraries
+### Python
+| Name | 👀 | About |
+|------|-----|-------|
+| [Vaex](https://github.com/vaexio/vaex) | <img width="256px" src="https://opengraph.githubassets.com/3dfd0460a3ee64b6603742724e11e59aa745d3b06a116f2d3bef09254e7df769/vaexio/vaex"> | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second |
 
 ## References/Documents
 | Name | 👀 | About |
