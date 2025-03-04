@@ -10,6 +10,7 @@
 - [Libraries](#libraries)
   - [Python](#python)
     - IceCream
+    - Shapash
     - Texthero
     - Vaex
 - [References/Documents](#referencesdocuments)
@@ -37,6 +38,7 @@
 | Name | 👀 | About |
 |------|-----|-------|
 | [IceCream](https://github.com/gruns/icecream) | <img width="256px" src="https://opengraph.githubassets.com/86b9b2429c14ef7589e4fe9beacc21d36d4cb1867786f4539c99c3784802ffa4/gruns/icecream"> | 🍦 Never use print() to debug again. |
+| [Shapash](https://github.com/MAIF/shapash) | <img width="256px" src="https://opengraph.githubassets.com/f06015e90816b5675747d9252c4fe34e1cb0bf9200eed5cff10ed0511d21df98/MAIF/shapash"> | 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models |
 | [Texthero](https://texthero.org/) | <img width="256px" src="https://texthero.org/img/T.png"> | Text preprocessing, representation and visualization from zero to hero. |
 | [Vaex](https://github.com/vaexio/vaex) | <img width="256px" src="https://opengraph.githubassets.com/3dfd0460a3ee64b6603742724e11e59aa745d3b06a116f2d3bef09254e7df769/vaexio/vaex"> | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second |
 
