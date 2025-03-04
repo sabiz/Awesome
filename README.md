@@ -4,6 +4,7 @@
   - Dockle
   - OpenSSF Scorecard
 - [Develop](#develop)
+  - Big List of Naughty Strings
   - HTTPie
   - local-ssl-proxy
 - [References](#references)
@@ -20,6 +21,7 @@
 ## Develop
 | Name | About |
 |------|-------|
+| [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data |
 | [HTTPie](https://github.com/httpie/cli) | 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 
