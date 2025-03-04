@@ -10,6 +10,7 @@
 - [References/Documents](#referencesdocuments)
   - Al-Khaser
   - Bugs Patterns
+  - HowToHunt.md
 - [Tools](#tools)
   - piping-server
 
@@ -31,6 +32,7 @@
 |------|-----|-------|
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | <img width="256px" src="https://opengraph.githubassets.com/276b43d3ebe7d0919d793bb0c060d47bd1fe2cd0a8ca49f3bdbdd1502d3e0ad9/ayoubfaouzi/al-khaser"> | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
 | [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | | The complete list of descriptions given when FindBugs identify potential weaknesses. |
+| [HowToHunt.md](https://kathan19.gitbook.io/howtohunt) | <img width="256px" src="https://opengraph.githubassets.com/1ad8ee06f3c446f7b1aa158867c53f9679b1875ce7c7ec40a1df6297836926c5/KathanP19/HowToHunt"> | Collection of methodology and test case for various web vulnerabilities. |
 
 
 ## Tools
