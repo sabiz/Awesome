@@ -10,6 +10,7 @@
   - HTTPie
   - local-ssl-proxy
 - [Libraries](#libraries)
+  - [Node.js](#nodejs)
   - [Python](#python)
     - IceCream
     - Phoenix
@@ -43,6 +44,11 @@
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | <img width="256px" src="https://opengraph.githubassets.com/74175b440a485ea5cf18015211675ab9445d6e03b7795e7e6f076a0e33e8ef86/cameronhunter/local-ssl-proxy"> | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 
 ## Libraries
+### Node.js
+| Name | 👀 | About |
+|------|-----|-------|
+| [sanitize-url](https://github.com/braintree/sanitize-url) | <img width="256px" src="https://opengraph.githubassets.com/f42f76aefca5c296b2e7d2b3f93da28625b762bc8c2bbbef5857f6087ffb47e4/braintree/sanitize-url"> |  |
+
 ### Python
 | Name | 👀 | About |
 |------|-----|-------|
