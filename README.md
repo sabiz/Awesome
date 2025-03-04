@@ -1,5 +1,7 @@
 # Awesome💮
 
+- [Awesome](#awesome-1)
+  - Web Hacker's Weapons
 - [Checker/Linter](#checkerlinter)
   - Dockle
   - OpenSSF Scorecard
@@ -21,6 +23,11 @@
   - HowToHunt.md
 - [Tools](#tools)
   - piping-server
+
+## Awesome
+| Name | 👀 | About |
+|------|-----|-------|
+| [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) | <img width="256px" src="https://repository-images.githubusercontent.com/253024215/5558aa80-559e-11eb-9a86-d4705ed9f1f6"> | ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting |
 
 ## Checker/Linter
 | Name | 👀 | About |
