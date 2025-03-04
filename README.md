@@ -1,6 +1,6 @@
 # Awesome💮
 
-- [Tools](#Tools)
+- [Tools](#tools)
   - piping-server
 
 
