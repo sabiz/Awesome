@@ -4,6 +4,7 @@
   - Dockle
   - OpenSSF Scorecard
 - [Develop](#develop)
+  - HTTPie
   - local-ssl-proxy
 - [References](#references)
   - Al-Khaser
@@ -19,6 +20,7 @@
 ## Develop
 | Name | About |
 |------|-------|
+| [HTTPie](https://github.com/httpie/cli) | 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 
 ## References
