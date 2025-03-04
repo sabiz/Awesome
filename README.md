@@ -10,6 +10,7 @@
 - [Libraries](#libraries)
   - [Python](#python)
     - IceCream
+    - Phoenix
     - Polars
     - Shapash
     - Texthero
@@ -39,6 +40,7 @@
 | Name | 👀 | About |
 |------|-----|-------|
 | [IceCream](https://github.com/gruns/icecream) | <img width="256px" src="https://opengraph.githubassets.com/86b9b2429c14ef7589e4fe9beacc21d36d4cb1867786f4539c99c3784802ffa4/gruns/icecream"> | 🍦 Never use print() to debug again. |
+| [Phoenix](https://github.com/Arize-ai/phoenix) | <img width="256px" src="https://repository-images.githubusercontent.com/564072810/f3666cdf-cb3e-4056-8a25-27cb3e6b5848"> | AI Observability & Evaluation |
 | [Polars](https://github.com/pola-rs/polars) | <img width="256px" src="https://opengraph.githubassets.com/7a5a847e0a9ba1096765a7cac54db1334283ab6ed50e3eb2a63b0deac51f5999/pola-rs/polars"> | Dataframes powered by a multithreaded, vectorized query engine, written in Rust |
 | [Shapash](https://github.com/MAIF/shapash) | <img width="256px" src="https://opengraph.githubassets.com/f06015e90816b5675747d9252c4fe34e1cb0bf9200eed5cff10ed0511d21df98/MAIF/shapash"> | 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models |
 | [Texthero](https://texthero.org/) | <img width="256px" src="https://texthero.org/img/T.png"> | Text preprocessing, representation and visualization from zero to hero. |
