@@ -11,7 +11,10 @@
   - HTTPie
   - local-ssl-proxy
 - [Libraries](#libraries)
+  - [JavaScript](#javascript)
+    - Nano ID
   - [Node.js](#nodejs)
+    - sanitize-url
   - [Python](#python)
     - IceCream
     - Phoenix
@@ -49,6 +52,11 @@
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | <img width="256px" src="https://opengraph.githubassets.com/74175b440a485ea5cf18015211675ab9445d6e03b7795e7e6f076a0e33e8ef86/cameronhunter/local-ssl-proxy"> | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 
 ## Libraries
+### JavaScript
+| Name | 👀 | About |
+|------|-----|-------|
+| [Nano ID](https://github.com/ai/nanoid) | <img width="256px" src="https://opengraph.githubassets.com/789c9794005da8304ab46f19ddd0874a8c071e09a00773b0bd5707993abf0c17/ai/nanoid"> | A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript |
+
 ### Node.js
 | Name | 👀 | About |
 |------|-----|-------|
