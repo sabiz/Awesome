@@ -1,9 +1,17 @@
 # Awesome💮
 
+- [Checker](#checker)
+  - OpenSSF Scorecard
 - [References](#references)
   - Al-Khaser
 - [Tools](#tools)
   - piping-server
+
+## Checker
+| Name | About |
+|------|-------|
+| [OpenSSF Scorecard](https://github.com/ossf/scorecard) | OpenSSF Scorecard - Security health metrics for Open Source |
+
 
 ## References
 | Name | About |
