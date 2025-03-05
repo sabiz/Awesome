@@ -25,6 +25,7 @@
     - Vaex
 - [References/Documents](#referencesdocuments)
   - Al-Khaser
+  - API Security Checklist
   - Bugs Patterns
   - clean-code-javascript
   - Developer Roadmaps
@@ -33,7 +34,9 @@
   - HowToHunt.md
   - Interpretable Machine Learning
   - Node.js Best Practices
+  - The System Design Primer
   - theZoo - A Live Malware Repository
+  - 確率統計 - 機械学習その前に -
 - [Tools](#tools)
   - piping-server
 
@@ -82,6 +85,8 @@
 | Name | 👀 | About |
 |------|-----|-------|
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | <img width="256px" src="https://opengraph.githubassets.com/276b43d3ebe7d0919d793bb0c060d47bd1fe2cd0a8ca49f3bdbdd1502d3e0ad9/ayoubfaouzi/al-khaser"> | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
+| [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | <img width="256px" src="https://opengraph.githubassets.com/0b10bd9545d12fabc8bc8883c6cc27849cfd31a443e961496b6c569f854d48ac/shieldfy/API-Security-Checklist"> | Checklist of the most important security countermeasures when designing, testing, and releasing your API |
+| [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/ja/) |  | AWS Observability best practices |
 | [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | | The complete list of descriptions given when FindBugs identify potential weaknesses. |
 | [clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript/) | <img width="256px" src="https://opengraph.githubassets.com/3dc7ad2ea96234257212bffab1341f35084cd45ce7908e23b98c7228c4bcce83/mitsuruog/clean-code-javascript"> | 🛁 Clean Code concepts adapted for JavaScript |
 | [Developer Roadmaps](https://roadmap.sh/) | <img width="256px" src="https://roadmap.sh/images/og-img.png"> | roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings. |
@@ -90,7 +95,9 @@
 | [HowToHunt.md](https://kathan19.gitbook.io/howtohunt) | <img width="256px" src="https://opengraph.githubassets.com/1ad8ee06f3c446f7b1aa158867c53f9679b1875ce7c7ec40a1df6297836926c5/KathanP19/HowToHunt"> | Collection of methodology and test case for various web vulnerabilities. |
 | [Interpretable Machine Learning](https://hacarus.github.io/interpretable-ml-book-ja/) |  | Machine learning algorithms usually operate as black boxes and it is unclear how they derived a certain decision. This book is a guide for practitioners to make machine learning decisions interpretable. |
 | [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) | <img width="256px" src="https://opengraph.githubassets.com/e745031194f02cf98cfea8fffe5c7a7273bde8ba512012ef4598da3de5cb66e9/goldbergyoni/nodebestpractices"> | ✅ The Node.js best practices list |
+| [The System Design Primer](https://github.com/donnemartin/system-design-primer) | <img width="256px" src="https://opengraph.githubassets.com/115cabf63b291c11228e1a3f577e00a1210c199b33b401b138a88b8484713fbc/donnemartin/system-design-primer"> | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [theZoo - A Live Malware Repository](https://github.com/ytisf/theZoo) | <img width="256px" src="https://opengraph.githubassets.com/0671d6b8e0273b0e06e6466abcc5816081a7dafd5cc15402f9c7ca9c3753b16e/ytisf/theZoo"> | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. |
+| [確率統計 - 機械学習その前に -](https://speakerdeck.com/hidekatsu_izuno/que-lu-tong-ji-ji-jie-xue-xi-sofalseqian-ni) | <img width="256px" src="https://files.speakerdeck.com/presentations/39cf725054674360a41123c9bb115179/slide_0.jpg?28942257"> | 以前公開した確率統計の勉強会資料について、その後得た知見を元に内容を更新したものです。間違っている記述を見つけた際はご指摘頂ければ幸いです。 |
 
 ## Tools
 | Name | 👀 | About |
