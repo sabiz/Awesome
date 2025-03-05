@@ -1,8 +1,13 @@
 # Awesome💮
 
 - [Awesome](#awesome-1)
+  - Awesome Cloud Security
   - Awesome Code Points
   - Awesome Node.js Security
+  - Awesome Security
+  - Awesome Software Architecture
+  - Awesome Software and Architectural Design Patterns
+  - Awesome Vehicle Security
   - Web Hacker's Weapons
 - [Checker/Linter](#checkerlinter)
   - Dockle
@@ -43,8 +48,13 @@
 ## Awesome
 | Name | 👀 | About |
 |------|-----|-------|
+| [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) | <img width="256px" src="https://opengraph.githubassets.com/77876df972929d6f85dde8a6c5d35494e25f36e5bcb223806aa7d3383e72f3c7/4ndersonLin/awesome-cloud-security"> | 🛡️ Awesome Cloud Security Resources ⚔️ |
 | [Awesome Code Points](https://github.com/Codepoints/awesome-codepoints) | <img width="256px" src="https://opengraph.githubassets.com/39e0a450688d13059c771e6daa2ecb1746990e3640d5f5ad9d44b53c6f75729a/Codepoints/awesome-codepoints"> | Awesome Code Points |
 | [Awesome Node.js Security](https://github.com/lirantal/awesome-nodejs-security) | <img width="256px" src="https://repository-images.githubusercontent.com/154401464/6dddbd80-bb7f-11e9-9b3e-48be8ddc23c3"> | Awesome Node.js Security resources |
+| [Awesome Security](https://github.com/sbilly/awesome-security) | <img width="256px" src="https://opengraph.githubassets.com/54dc1453842d3dce372a05dbdb2c841486626bfcdd7ae293d06e4677005c8fda/sbilly/awesome-security"> | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
+| [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | <img width="256px" src="https://repository-images.githubusercontent.com/336648397/dc11d000-784a-11eb-9764-d179fc6a78f6"> | 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. |
+| [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) | <img width="256px" src="https://opengraph.githubassets.com/aa8ddf8630a1f3c6432be46a902ad7a854a321bdad4c239a6ad4c6a272881fd4/DovAmir/awesome-design-patterns"> | A curated list of software and architecture related design patterns. |
+| [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) | <img width="256px" src="https://opengraph.githubassets.com/7d380b5afe1918ed0a3b82b0753cafabd00fce518e093507ab2e58fe352c1be2/jaredthecoder/awesome-vehicle-security" > | 🚗 A curated list of resources for learning about vehicle security and car hacking. |
 | [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) | <img width="256px" src="https://repository-images.githubusercontent.com/253024215/5558aa80-559e-11eb-9a86-d4705ed9f1f6"> | ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting |
 
 ## Checker/Linter
