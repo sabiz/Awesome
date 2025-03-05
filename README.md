@@ -61,7 +61,7 @@
   - The System Design Primer
   - theZoo - A Live Malware Repository
   - 確率統計 - 機械学習その前に -
-- [Tools](#tools)
+- [Other Tools](#other-tools)
   - piping-server
 
 
@@ -174,7 +174,7 @@
 | [theZoo - A Live Malware Repository](https://github.com/ytisf/theZoo) | <img width="256px" src="https://opengraph.githubassets.com/0671d6b8e0273b0e06e6466abcc5816081a7dafd5cc15402f9c7ca9c3753b16e/ytisf/theZoo"> | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. |
 | [確率統計 - 機械学習その前に -](https://speakerdeck.com/hidekatsu_izuno/que-lu-tong-ji-ji-jie-xue-xi-sofalseqian-ni) | <img width="256px" src="https://files.speakerdeck.com/presentations/39cf725054674360a41123c9bb115179/slide_0.jpg?28942257"> | 以前公開した確率統計の勉強会資料について、その後得た知見を元に内容を更新したものです。間違っている記述を見つけた際はご指摘頂ければ幸いです。 |
 
-## Tools
+## Other Tools
 
 | Name | 👀 | About |
 |------|-----|-------|
