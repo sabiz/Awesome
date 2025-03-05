@@ -1,6 +1,7 @@
 # Awesome💮
 
 - [Awesome](#awesome-1)
+  - Awesome Code Points
   - Awesome Node.js Security
   - Web Hacker's Weapons
 - [Checker/Linter](#checkerlinter)
@@ -39,6 +40,7 @@
 ## Awesome
 | Name | 👀 | About |
 |------|-----|-------|
+| [Awesome Code Points](https://github.com/Codepoints/awesome-codepoints) | <img width="256px" src="https://opengraph.githubassets.com/39e0a450688d13059c771e6daa2ecb1746990e3640d5f5ad9d44b53c6f75729a/Codepoints/awesome-codepoints"> | Awesome Code Points |
 | [Awesome Node.js Security](https://github.com/lirantal/awesome-nodejs-security) | <img width="256px" src="https://repository-images.githubusercontent.com/154401464/6dddbd80-bb7f-11e9-9b3e-48be8ddc23c3"> | Awesome Node.js Security resources |
 | [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) | <img width="256px" src="https://repository-images.githubusercontent.com/253024215/5558aa80-559e-11eb-9a86-d4705ed9f1f6"> | ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting |
 
