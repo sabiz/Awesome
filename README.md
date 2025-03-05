@@ -22,8 +22,15 @@
   - HTTPie
   - local-ssl-proxy
 - [Images](#images)
+  - [Icons](#icons)
+    - Iconify
+    - Sargam Icons
   - [Pictures](#pictures)
     - Linustock
+    - Storyset
+    - ソコスト
+    - ベクターシェルフ
+    - ちょうどいいイラスト
 - [Libraries](#libraries)
   - [JavaScript](#javascript)
     - Nano ID
@@ -53,17 +60,6 @@
 - [Tools](#tools)
   - piping-server
 
-TEST
-
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
-
-TEST
 
 ## Awesome
 
@@ -79,12 +75,14 @@ TEST
 | [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) | <img width="256px" src="https://repository-images.githubusercontent.com/253024215/5558aa80-559e-11eb-9a86-d4705ed9f1f6"> | ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting |
 
 ## Checker/Linter
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [Dockle](https://github.com/goodwithtech/dockle) | <img width="256px" src="https://opengraph.githubassets.com/5be6663ea35defd532b32e355728c9725254d20f5f224f9150ee6b385cd90c6f/goodwithtech/dockle"> | Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start |
 | [OpenSSF Scorecard](https://github.com/ossf/scorecard) | <img width="256px" src="https://opengraph.githubassets.com/59e2898803765951b97c3c8b001a7c35c6db89dc17c23c9d96f7ffc736bce237/ossf/scorecard"> | OpenSSF Scorecard - Security health metrics for Open Source |
 
 ## Color
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [Adobe Color](https://color.adobe.com/ja/explore/?filter=newest) |  | Adobe Color コミュニティでカラーのトレンドを調べたり、他のデザイナーやアーティストのカラーパレットからインスピレーションを得ましょう。 |
@@ -93,6 +91,7 @@ TEST
 | [uiGradients](https://uigradients.com/) | <img width="256px" src="http://uigradients.com/static/images/uigradients.jpg"> | uiGradients is a handpicked collection of beautiful color gradients for designers and developers. |
 
 ## Develop
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) | <img width="256px" src="https://opengraph.githubassets.com/61b9b8e561582a841c686682142e11a03a2799feb10db748ae6508bab3d4a529/minimaxir/big-list-of-naughty-strings"> | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data |
@@ -100,25 +99,42 @@ TEST
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | <img width="256px" src="https://opengraph.githubassets.com/74175b440a485ea5cf18015211675ab9445d6e03b7795e7e6f076a0e33e8ef86/cameronhunter/local-ssl-proxy"> | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 
 ## Images
+
+### Icons
+
+| Name | 👀 | About |
+|------|-----|-------|
+| [Iconify](https://icon-sets.iconify.design/) | <img width="256px" src="https://icon-sets.iconify.design/og-image.png"> | Open source vector icons from all popular icon sets |
+| [Sargam Icons](https://sargamicons.com/) |  | 300+ open-source icons. |
+
+
 ### Pictures
 
 | Name | 👀 | About |
 |------|-----|-------|
 | [Linustock](https://www.linustock.com/) |  | ライナストックではWeb・DTPデザイナーたちの声から生まれたシンプルで使いやすい線画イラスト素材が無料でダウンロードできます。会員登録不要！加工も商用利用もOK。色付けや編集が簡単で様々なシーンに対応しているため、きっとあなたのデザインに役立ちます。 |
+| [Storyset ](https://storyset.com/) |  | Customize, animate and download illustration for free |
+| [ソコスト](https://soco-st.com/) | <img width="256px" src="https://soco-st.com/wp-content/themes/socost/img/common/ogp.png?ver=20210410001"> | 商用可のシンプルでかわいいフリーイラスト素材集。画像・ベクター形式でDL！色変更可能！Web・広告・企画書・資料などご自由に！ |
+| [ベクターシェルフ](https://vectorshelf.com/) | <img width="256px" src="http://vectorshelf.com/wp-content/uploads/2020/07/ogpimage.jpg"> | 無料・商用利用OKのイラスト素材サイト |
+| [ちょうどいいイラスト](https://tyoudoii-illust.com/) | <img width="256px" src="https://tyoudoii-illust.com/wp-content/uploads/2020/12/twitter_card.png"> | 大体どんなシーンにも使える、シンプルでかわいいフリーイラスト素材をeps・pngで配布中。商用利用可、クレジット表記不要。 |
 
 
 ## Libraries
+
 ### JavaScript
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [Nano ID](https://github.com/ai/nanoid) | <img width="256px" src="https://opengraph.githubassets.com/789c9794005da8304ab46f19ddd0874a8c071e09a00773b0bd5707993abf0c17/ai/nanoid"> | A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript |
 
 ### Node.js
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [sanitize-url](https://github.com/braintree/sanitize-url) | <img width="256px" src="https://opengraph.githubassets.com/f42f76aefca5c296b2e7d2b3f93da28625b762bc8c2bbbef5857f6087ffb47e4/braintree/sanitize-url"> |  |
 
 ### Python
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [IceCream](https://github.com/gruns/icecream) | <img width="256px" src="https://opengraph.githubassets.com/86b9b2429c14ef7589e4fe9beacc21d36d4cb1867786f4539c99c3784802ffa4/gruns/icecream"> | 🍦 Never use print() to debug again. |
@@ -129,6 +145,7 @@ TEST
 | [Vaex](https://github.com/vaexio/vaex) | <img width="256px" src="https://opengraph.githubassets.com/3dfd0460a3ee64b6603742724e11e59aa745d3b06a116f2d3bef09254e7df769/vaexio/vaex"> | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second |
 
 ## References/Documents
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | <img width="256px" src="https://opengraph.githubassets.com/276b43d3ebe7d0919d793bb0c060d47bd1fe2cd0a8ca49f3bdbdd1502d3e0ad9/ayoubfaouzi/al-khaser"> | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
@@ -147,6 +164,7 @@ TEST
 | [確率統計 - 機械学習その前に -](https://speakerdeck.com/hidekatsu_izuno/que-lu-tong-ji-ji-jie-xue-xi-sofalseqian-ni) | <img width="256px" src="https://files.speakerdeck.com/presentations/39cf725054674360a41123c9bb115179/slide_0.jpg?28942257"> | 以前公開した確率統計の勉強会資料について、その後得た知見を元に内容を更新したものです。間違っている記述を見つけた際はご指摘頂ければ幸いです。 |
 
 ## Tools
+
 | Name | 👀 | About |
 |------|-----|-------|
 | [piping-server](https://github.com/nwtgck/piping-server-rust) | <img width="256px" src="https://opengraph.githubassets.com/f04d4945f48766c9916da66a7b4c81f3918d9c7a8f73ef659535a6173ae3087b/nwtgck/piping-server-rust"> | Infinitely transfer between every device over pure HTTP with pipes or browsers |
