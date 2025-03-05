@@ -19,9 +19,15 @@
   - uiGradients
 - [Develop](#develop)
   - Big List of Naughty Strings
+  - Current Millis
+  - CyberChef
   - HTTPie
+  - IPinfo.io
+  - JavaScript Regular Expression Visualizer
   - local-ssl-proxy
   - Lorem Picsum
+  - regex101
+  - Wolfram\|Alpha
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
@@ -100,9 +106,15 @@
 | Name | 👀 | About |
 |------|-----|-------|
 | [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) | <img width="256px" src="https://opengraph.githubassets.com/61b9b8e561582a841c686682142e11a03a2799feb10db748ae6508bab3d4a529/minimaxir/big-list-of-naughty-strings"> | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data |
+| [Current Millis](https://currentmillis.com/) | <img width="256px" src="http://currentmillis.com/images/date-time.png"> | Convert milliseconds to date-time. Link to a moment. |
+| [CyberChef](https://gchq.github.io/CyberChef/) |  | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
 | [HTTPie](https://github.com/httpie/cli) | <img width="256px" src="https://repository-images.githubusercontent.com/3544424/71668a1d-1b65-42c4-b8ac-981b8fd46dee"> | 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
+| [IPinfo.io](https://ipinfo.io/) | <img width="256px" src="https://ipinfo.io/static/images/og_logo.png"> | Get accurate IP geolocation with our API. Ideal for personalization, fraud prevention, and analytics. Try IPinfo today for precise IP location data.. |
+| [JavaScript Regular Expression Visualizer](https://jex.im/regulex) |  |  |
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | <img width="256px" src="https://opengraph.githubassets.com/74175b440a485ea5cf18015211675ab9445d6e03b7795e7e6f076a0e33e8ef86/cameronhunter/local-ssl-proxy"> | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 | [Lorem Picsum](https://picsum.photos/) | <img width="256px" src="https://picsum.photos/id/237/250"> | Lorem Ipsum... but for photos |
+| [regex101](https://regex101.com/) | <img width="256px" src="https://regex101.com/preview/"> | Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET, Rust. |
+| [Wolfram\|Alpha](https://ja.wolframalpha.com/) | <img width="256px" src="https://ja.wolframalpha.com/_next/static/images/share_3eSzXbxb.png"> | Wolfram\|Alphaは，あらゆる職種，あらゆる教育レベルの，できるだけ広い範囲の人々に，専門家レベルの知識と機能をお届けします． |
 
 ## Images
 
