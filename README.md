@@ -26,6 +26,7 @@
   - Al-Khaser
   - Bugs Patterns
   - clean-code-javascript
+  - Free Programming Books
   - Front-End Checklist
   - HowToHunt.md
   - Interpretable Machine Learning
@@ -80,6 +81,7 @@
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | <img width="256px" src="https://opengraph.githubassets.com/276b43d3ebe7d0919d793bb0c060d47bd1fe2cd0a8ca49f3bdbdd1502d3e0ad9/ayoubfaouzi/al-khaser"> | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
 | [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | | The complete list of descriptions given when FindBugs identify potential weaknesses. |
 | [clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript/) | <img width="256px" src="https://opengraph.githubassets.com/3dc7ad2ea96234257212bffab1341f35084cd45ce7908e23b98c7228c4bcce83/mitsuruog/clean-code-javascript"> | 🛁 Clean Code concepts adapted for JavaScript |
+| [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-ja.html) | <img width="256px" src="https://opengraph.githubassets.com/bc2c2869acb7eaf954ce544754c57d08036160a907d879263b05add058ece8c8/EbookFoundation/free-programming-books"> | 📚 Freely available programming books |
 | [Front-End Checklist](https://frontendchecklist.io/) | <img width="256px" src="https://everywhere-8a59.kxcdn.com/img/social/facebook-banner.jpg"> | 🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report! |
 | [HowToHunt.md](https://kathan19.gitbook.io/howtohunt) | <img width="256px" src="https://opengraph.githubassets.com/1ad8ee06f3c446f7b1aa158867c53f9679b1875ce7c7ec40a1df6297836926c5/KathanP19/HowToHunt"> | Collection of methodology and test case for various web vulnerabilities. |
 | [Interpretable Machine Learning](https://hacarus.github.io/interpretable-ml-book-ja/) |  | Machine learning algorithms usually operate as black boxes and it is unclear how they derived a certain decision. This book is a guide for practitioners to make machine learning decisions interpretable. |
