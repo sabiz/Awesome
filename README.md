@@ -12,6 +12,11 @@
 - [Checker/Linter](#checkerlinter)
   - Dockle
   - OpenSSF Scorecard
+- [Color](#color)
+  - Adobe Color
+  - Color Hunt
+  - CSS Gradient
+  - uiGradients
 - [Develop](#develop)
   - Big List of Naughty Strings
   - HTTPie
@@ -62,6 +67,14 @@
 |------|-----|-------|
 | [Dockle](https://github.com/goodwithtech/dockle) | <img width="256px" src="https://opengraph.githubassets.com/5be6663ea35defd532b32e355728c9725254d20f5f224f9150ee6b385cd90c6f/goodwithtech/dockle"> | Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start |
 | [OpenSSF Scorecard](https://github.com/ossf/scorecard) | <img width="256px" src="https://opengraph.githubassets.com/59e2898803765951b97c3c8b001a7c35c6db89dc17c23c9d96f7ffc736bce237/ossf/scorecard"> | OpenSSF Scorecard - Security health metrics for Open Source |
+
+## Color
+| Name | 👀 | About |
+|------|-----|-------|
+| [Adobe Color](https://color.adobe.com/ja/explore/?filter=newest) |  | Adobe Color コミュニティでカラーのトレンドを調べたり、他のデザイナーやアーティストのカラーパレットからインスピレーションを得ましょう。 |
+| [Color Hunt](https://colorhunt.co/) | <img width="256px" src="https://colorhunt.co/img/color-hunt-og.png"> | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
+| [CSS Gradient](https://cssgradient.io/) | <img width="256px" src="https://cssgradient.io/images/css-gradient-share-23a5b71f.png"> | As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile. |
+| [uiGradients](https://uigradients.com/) | <img width="256px" src="http://uigradients.com/static/images/uigradients.jpg"> | uiGradients is a handpicked collection of beautiful color gradients for designers and developers. |
 
 ## Develop
 | Name | 👀 | About |
