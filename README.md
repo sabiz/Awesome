@@ -62,6 +62,7 @@
   - clean-code-javascript
   - Developer Roadmaps
   - Exploit Database
+  - Exploit Notes
   - Free Programming Books
   - Front-End Checklist
   - HowToHunt.md
@@ -187,6 +188,7 @@
 | [clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript/) | <img width="256px" src="https://opengraph.githubassets.com/3dc7ad2ea96234257212bffab1341f35084cd45ce7908e23b98c7228c4bcce83/mitsuruog/clean-code-javascript"> | 🛁 Clean Code concepts adapted for JavaScript |
 | [Developer Roadmaps](https://roadmap.sh/) | <img width="256px" src="https://roadmap.sh/images/og-img.png"> | roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings. |
 | [Exploit Database](https://www.exploit-db.com/) |  | The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more. |
+| [Exploit Notes](https://github.com/hideckies/exploit-notes) | <img width="256px" src="https://opengraph.githubassets.com/ebe0d31d3e07b75a465a032a96461372278d6fd0a4c8678dcfd111c6d7fc37b3/hideckies/exploit-notes"> | Sticky notes for pentesting, bug bounty, CTF.  |
 | [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-ja.html) | <img width="256px" src="https://opengraph.githubassets.com/bc2c2869acb7eaf954ce544754c57d08036160a907d879263b05add058ece8c8/EbookFoundation/free-programming-books"> | 📚 Freely available programming books |
 | [Front-End Checklist](https://frontendchecklist.io/) | <img width="256px" src="https://everywhere-8a59.kxcdn.com/img/social/facebook-banner.jpg"> | 🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report! |
 | [HTML5 Security Cheatsheet](https://html5sec.org/) |  |  |
