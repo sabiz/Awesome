@@ -28,6 +28,7 @@
   - local-ssl-proxy
   - Lorem Picsum
   - regex101
+  - scrcpy
   - Wolfram\|Alpha
 - [Images](#images)
   - [Icons](#icons)
@@ -122,6 +123,7 @@
 | [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) | <img width="256px" src="https://opengraph.githubassets.com/74175b440a485ea5cf18015211675ab9445d6e03b7795e7e6f076a0e33e8ef86/cameronhunter/local-ssl-proxy"> | Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. |
 | [Lorem Picsum](https://picsum.photos/) | <img width="256px" src="https://picsum.photos/id/237/250"> | Lorem Ipsum... but for photos |
 | [regex101](https://regex101.com/) | <img width="256px" src="https://regex101.com/preview/"> | Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET, Rust. |
+| [scrcpy](https://github.com/Genymobile/scrcpy) | <img width="256px" src="https://opengraph.githubassets.com/30debb37927bc4eaa616315c8152c6a32a89e4c5ce5dc72b90248638f8e3c15a/Genymobile/scrcpy"> | Display and control your Android device |
 | [Wolfram\|Alpha](https://ja.wolframalpha.com/) | <img width="256px" src="https://ja.wolframalpha.com/_next/static/images/share_3eSzXbxb.png"> | Wolfram\|Alphaは，あらゆる職種，あらゆる教育レベルの，できるだけ広い範囲の人々に，専門家レベルの知識と機能をお届けします． |
 
 ## Images
