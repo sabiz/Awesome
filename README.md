@@ -59,6 +59,7 @@
 - [References/Documents](#referencesdocuments)
   - Al-Khaser
   - API Security Checklist
+  - Bit Twiddling Hacks 
   - Bugs Patterns
   - clean-code-javascript
   - Developer Roadmaps
@@ -188,7 +189,8 @@
 |------|-----|-------|
 | [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) | <img width="256px" src="https://opengraph.githubassets.com/276b43d3ebe7d0919d793bb0c060d47bd1fe2cd0a8ca49f3bdbdd1502d3e0ad9/ayoubfaouzi/al-khaser"> | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. |
 | [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | <img width="256px" src="https://opengraph.githubassets.com/0b10bd9545d12fabc8bc8883c6cc27849cfd31a443e961496b6c569f854d48ac/shieldfy/API-Security-Checklist"> | Checklist of the most important security countermeasures when designing, testing, and releasing your API |
-| [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/ja/) |  | AWS Observability best practices |
+| [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/ja/) |  |  |
+| [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) |  | AWS Observability best practices |
 | [Bugs Patterns](https://find-sec-bugs.github.io/bugs_ja.htm) | | The complete list of descriptions given when FindBugs identify potential weaknesses. |
 | [clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript/) | <img width="256px" src="https://opengraph.githubassets.com/3dc7ad2ea96234257212bffab1341f35084cd45ce7908e23b98c7228c4bcce83/mitsuruog/clean-code-javascript"> | 🛁 Clean Code concepts adapted for JavaScript |
 | [Developer Roadmaps](https://roadmap.sh/) | <img width="256px" src="https://roadmap.sh/images/og-img.png"> | roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings. |
