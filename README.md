@@ -72,13 +72,16 @@
   - Node.js Best Practices
   - The System Design Primer
   - theZoo - A Live Malware Repository
-  - 確率統計 - 機械学習その前に -
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
 - [Other Tools](#other-tools)
   - piping-server
-
+- [Slides](#slides)
+  - 確率統計 - 機械学習その前に -
+  - エンジニアとしてこの先生きのこるために
+  - 予防に勝る防御なし - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHPerKaigi 2022 - Speaker Deck
+  - 技術をわかりやすく伝えるためテクニカルライティング
 
 ## Awesome
 
@@ -199,7 +202,6 @@
 | [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) | <img width="256px" src="https://opengraph.githubassets.com/e745031194f02cf98cfea8fffe5c7a7273bde8ba512012ef4598da3de5cb66e9/goldbergyoni/nodebestpractices"> | ✅ The Node.js best practices list |
 | [The System Design Primer](https://github.com/donnemartin/system-design-primer) | <img width="256px" src="https://opengraph.githubassets.com/115cabf63b291c11228e1a3f577e00a1210c199b33b401b138a88b8484713fbc/donnemartin/system-design-primer"> | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [theZoo - A Live Malware Repository](https://github.com/ytisf/theZoo) | <img width="256px" src="https://opengraph.githubassets.com/0671d6b8e0273b0e06e6466abcc5816081a7dafd5cc15402f9c7ca9c3753b16e/ytisf/theZoo"> | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. |
-| [確率統計 - 機械学習その前に -](https://speakerdeck.com/hidekatsu_izuno/que-lu-tong-ji-ji-jie-xue-xi-sofalseqian-ni) | <img width="256px" src="https://files.speakerdeck.com/presentations/39cf725054674360a41123c9bb115179/slide_0.jpg?28942257"> | 以前公開した確率統計の勉強会資料について、その後得た知見を元に内容を更新したものです。間違っている記述を見つけた際はご指摘頂ければ幸いです。 |
 
 ## OSINT
 
@@ -214,3 +216,12 @@
 | Name | 👀 | About |
 |------|-----|-------|
 | [piping-server](https://github.com/nwtgck/piping-server-rust) | <img width="256px" src="https://opengraph.githubassets.com/f04d4945f48766c9916da66a7b4c81f3918d9c7a8f73ef659535a6173ae3087b/nwtgck/piping-server-rust"> | Infinitely transfer between every device over pure HTTP with pipes or browsers |
+
+## Slides
+
+| Name | 👀 | About |
+|------|-----|-------|
+| [確率統計 - 機械学習その前に -](https://speakerdeck.com/hidekatsu_izuno/que-lu-tong-ji-ji-jie-xue-xi-sofalseqian-ni) | <img width="256px" src="https://files.speakerdeck.com/presentations/39cf725054674360a41123c9bb115179/slide_0.jpg?28942257"> | 以前公開した確率統計の勉強会資料について、その後得た知見を元に内容を更新したものです。間違っている記述を見つけた際はご指摘頂ければ幸いです。 |
+| [エンジニアとしてこの先生きのこるために](https://speakerdeck.com/rtechkouhou/enziniatositekofalsexian-sheng-kifalsekorutameni) | <img width="256px" src="https://files.speakerdeck.com/presentations/f92624dfc28b49e48acb0614b3d62d96/slide_0.jpg?8094305"> | 2017年4～5月開催「ブートキャンプ特別講座」の資料になります。 |
+| [予防に勝る防御なし - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHPerKaigi 2022 - Speaker Deck](https://speakerdeck.com/twada/growing-reliable-code-phperkaigi-2022) | <img width="256px" src="https://files.speakerdeck.com/presentations/2c693f58ab55477d929b60d8d5a8f248/slide_0.jpg?21292951"> | PHPerKaigi 2022 2022/04/10 10:40〜 Track A レギュラートーク（40分） PHP はバージョンを追う毎に型宣言、例外、表明、列挙型などの機能が大幅に強化され、堅牢なコードを書くための機能が充実してきました。それらの機能はどう使うと効果的なのでしょうか。 |
+| [技術をわかりやすく伝えるためテクニカルライティング](https://speakerdeck.com/naohiro_nakata/technicalwritingfordeveloper) | <img width="256px" src="https://files.speakerdeck.com/presentations/d0be189ad7454885ad5c99657ad336a2/slide_0.jpg?24445424"> | 技術をわかりやすく伝えるためのテクニックとしての「テクニカルライティング」を学べます。Developers Summit 2023の登壇資料。開発者・エンジニアの方向け。 |
