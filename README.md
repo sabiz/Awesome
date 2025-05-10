@@ -30,6 +30,7 @@
   - regex101
   - scrcpy
   - Wolfram\|Alpha
+  - OpenSecurity
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
@@ -129,6 +130,7 @@
 | [regex101](https://regex101.com/) | <img width="256px" src="https://regex101.com/preview/"> | Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET, Rust. |
 | [scrcpy](https://github.com/Genymobile/scrcpy) | <img width="256px" src="https://opengraph.githubassets.com/30debb37927bc4eaa616315c8152c6a32a89e4c5ce5dc72b90248638f8e3c15a/Genymobile/scrcpy"> | Display and control your Android device |
 | [Wolfram\|Alpha](https://ja.wolframalpha.com/) | <img width="256px" src="https://ja.wolframalpha.com/_next/static/images/share_3eSzXbxb.png"> | Wolfram\|Alphaは，あらゆる職種，あらゆる教育レベルの，できるだけ広い範囲の人々に，専門家レベルの知識と機能をお届けします． |
+| [OpenSecurity](https://opensecurity.in/) | <img width="256px" src="https://opensecurity.in/static/img/opensecurity-logo.png"> | We do quality pentests, code review, security engineering, security training and security research |
 
 ## Images
 
