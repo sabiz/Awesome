@@ -32,6 +32,7 @@
   - Wolfram\|Alpha
   - OpenSecurity
   - IPinfo
+  - PageSpeed Insights
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
@@ -133,6 +134,7 @@
 | [Wolfram\|Alpha](https://ja.wolframalpha.com/) | <img width="256px" src="https://ja.wolframalpha.com/_next/static/images/share_3eSzXbxb.png"> | Wolfram\|Alphaは，あらゆる職種，あらゆる教育レベルの，できるだけ広い範囲の人々に，専門家レベルの知識と機能をお届けします． |
 | [OpenSecurity](https://opensecurity.in/) | <img width="256px" src="https://opensecurity.in/static/img/opensecurity-logo.png"> | We do quality pentests, code review, security engineering, security training and security research |
 | [IPinfo](https://ipinfo.io/) | <img width="256px" src="https://ipinfo.io/static/images/og_logo.png"> | Get accurate IP address information with IPinfo. Trusted by 400,000+ users, we handle more than 40 billion API requests monthly. Sign up for free account today. |
+| [PageSpeed Insights](https://pagespeed.web.dev/) | | |
 
 ## Images
 
