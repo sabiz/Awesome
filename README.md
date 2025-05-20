@@ -86,6 +86,7 @@
   - エンジニアとしてこの先生きのこるために
   - 予防に勝る防御なし - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHPerKaigi 2022 - Speaker Deck
   - 技術をわかりやすく伝えるためテクニカルライティング
+  - レガシーコードからの脱却
 
 ## Awesome
 
@@ -233,3 +234,5 @@
 | [エンジニアとしてこの先生きのこるために](https://speakerdeck.com/rtechkouhou/enziniatositekofalsexian-sheng-kifalsekorutameni) | <img width="256px" src="https://files.speakerdeck.com/presentations/f92624dfc28b49e48acb0614b3d62d96/slide_0.jpg?8094305"> | 2017年4～5月開催「ブートキャンプ特別講座」の資料になります。 |
 | [予防に勝る防御なし - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHPerKaigi 2022 - Speaker Deck](https://speakerdeck.com/twada/growing-reliable-code-phperkaigi-2022) | <img width="256px" src="https://files.speakerdeck.com/presentations/2c693f58ab55477d929b60d8d5a8f248/slide_0.jpg?21292951"> | PHPerKaigi 2022 2022/04/10 10:40〜 Track A レギュラートーク（40分） PHP はバージョンを追う毎に型宣言、例外、表明、列挙型などの機能が大幅に強化され、堅牢なコードを書くための機能が充実してきました。それらの機能はどう使うと効果的なのでしょうか。 |
 | [技術をわかりやすく伝えるためテクニカルライティング](https://speakerdeck.com/naohiro_nakata/technicalwritingfordeveloper) | <img width="256px" src="https://files.speakerdeck.com/presentations/d0be189ad7454885ad5c99657ad336a2/slide_0.jpg?24445424"> | 技術をわかりやすく伝えるためのテクニックとしての「テクニカルライティング」を学べます。Developers Summit 2023の登壇資料。開発者・エンジニアの方向け。 |
+| [レガシーコードからの脱却](https://slide.meguro.ryuzee.com/slides/98) | <img width="256px" src="https://slidehub-cdn-std-gah9eaewchfeedbr.z01.azurefd.net/images/9ea9deae4ac4f5e9bee0a1d821b205fb/thumbnail-middle.jpg"> | |
+
