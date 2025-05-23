@@ -33,9 +33,9 @@ async function createTableRow(url: string): Promise<TableRow> {
     console.log(`Received HTML content (${htmlContent.length} bytes)`);
     
     const DOM = new DOMParser().parseFromString(htmlContent, "text/html");
-    const title = DOM.querySelector("meta[property='og:title']")?.getAttribute("content");
+    const title = DOM.querySelector("meta[property='og:title']")?.getAttribute("content")?.replaceAll("|", "\|");
     const image = DOM.querySelector("meta[property='og:image']")?.getAttribute("content");
-    const description = DOM.querySelector("meta[property='og:description']")?.getAttribute("content");
+    const description = DOM.querySelector("meta[property='og:description']")?.getAttribute("content")?.replaceAll("|", "\|");
     
     console.log(`Extracted metadata - Title: ${title ? "Found" : "Not found"}, Image: ${image ? "Found" : "Not found"}`);
     

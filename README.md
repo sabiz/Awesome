@@ -212,7 +212,7 @@
 | [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) | <img width="256px" src="https://opengraph.githubassets.com/e745031194f02cf98cfea8fffe5c7a7273bde8ba512012ef4598da3de5cb66e9/goldbergyoni/nodebestpractices"> | ✅ The Node.js best practices list |
 | [The System Design Primer](https://github.com/donnemartin/system-design-primer) | <img width="256px" src="https://opengraph.githubassets.com/115cabf63b291c11228e1a3f577e00a1210c199b33b401b138a88b8484713fbc/donnemartin/system-design-primer"> | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [theZoo - A Live Malware Repository](https://github.com/ytisf/theZoo) | <img width="256px" src="https://opengraph.githubassets.com/0671d6b8e0273b0e06e6466abcc5816081a7dafd5cc15402f9c7ca9c3753b16e/ytisf/theZoo"> | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. |
-| [ソシオメディア | ヒューマンインターフェース ガイドライン](https://www.sociomedia.co.jp/category/shig) | <img width="256px" src="https://www.sociomedia.co.jp/assets/images/shig/shig-cover-ogimage-20191007.png"> | ソシオメディアがまとめている、ヒューマンインターフェースをデザインする際の指針です。これらは、インターフェースデザインに関する様々な文献と、実際のデザインコンサルティングで得た知見をもとに、ソシオメディアが独自に編纂したものです。継続的に追加・更新していきます。 |
+| [ソシオメディア \| ヒューマンインターフェース ガイドライン](https://www.sociomedia.co.jp/category/shig) | <img width="256px" src="https://www.sociomedia.co.jp/assets/images/shig/shig-cover-ogimage-20191007.png"> | ソシオメディアがまとめている、ヒューマンインターフェースをデザインする際の指針です。これらは、インターフェースデザインに関する様々な文献と、実際のデザインコンサルティングで得た知見をもとに、ソシオメディアが独自に編纂したものです。継続的に追加・更新していきます。 |
 
 ## OSINT
 
