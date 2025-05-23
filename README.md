@@ -76,6 +76,7 @@
   - Node.js Best Practices
   - The System Design Primer
   - theZoo - A Live Malware Repository
+  @@@https://www.sociomedia.co.jp/category/shig@@@
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
