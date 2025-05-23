@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --watch --allow-read=../. --allow-write=../README.md --allow-net update_readme.ts",
+    "run": "deno run --allow-read=../. --allow-write=../README.md --allow-net update_readme.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
