@@ -12,6 +12,7 @@
 - [Checker/Linter](#checkerlinter)
   - Dockle
   - OpenSSF Scorecard
+@@@https://aquasecurity.github.io/tfsec/latest/@@@
 - [Color](#color)
   - Adobe Color
   - Color Hunt
