@@ -77,6 +77,7 @@
   - The System Design Primer
   - theZoo - A Live Malware Repository
   - ソシオメディア | ヒューマンインターフェース ガイドライン
+@@@https://note.com/ttuusskk/n/n1bff5d8e638c@@@
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
