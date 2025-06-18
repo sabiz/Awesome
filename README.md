@@ -43,6 +43,7 @@
     - ソコスト
     - ベクターシェルフ
     - ちょうどいいイラスト
+    - Ukiyoe Stock
   - [Photos](#photos)
     - Kaboompics
     - Stock Photos@Shopify
@@ -158,6 +159,7 @@
 | [ソコスト](https://soco-st.com/) | <img width="256px" src="https://soco-st.com/wp-content/themes/socost/img/common/ogp.png?ver=20210410001"> | 商用可のシンプルでかわいいフリーイラスト素材集。画像・ベクター形式でDL！色変更可能！Web・広告・企画書・資料などご自由に！ |
 | [ベクターシェルフ](https://vectorshelf.com/) | <img width="256px" src="http://vectorshelf.com/wp-content/uploads/2020/07/ogpimage.jpg"> | 無料・商用利用OKのイラスト素材サイト |
 | [ちょうどいいイラスト](https://tyoudoii-illust.com/) | <img width="256px" src="https://tyoudoii-illust.com/wp-content/uploads/2020/12/twitter_card.png"> | 大体どんなシーンにも使える、シンプルでかわいいフリーイラスト素材をeps・pngで配布中。商用利用可、クレジット表記不要。 |
+| [Ukiyoe Stock](https://ukiyoestock.com/jp/) | <img width="256px" src="https://ukiyoestock.com/wp-content/uploads/OGP.png"> | 浮世絵・戯画を商用フリーの無料のデジタル素材として配布しています。葛飾北斎、歌川広重ほか多数。ベクター・特大PNGは別途ご用意。パブリックドメインで安心。クレジット、利用報告不要です。ダウンロード・利用の点数制限ありません。。 |
 
 ### Photos
 
