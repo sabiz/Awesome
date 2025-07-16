@@ -79,6 +79,7 @@
   - theZoo - A Live Malware Repository
   - ソシオメディア | ヒューマンインターフェース ガイドライン
   - 絵文字を支える技術について｜nona
+@@@https://aws-observability.github.io/observability-best-practices/ja/@@@
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
@@ -90,7 +91,7 @@
   - 予防に勝る防御なし - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHPerKaigi 2022 - Speaker Deck
   - 技術をわかりやすく伝えるためテクニカルライティング
   - レガシーコードからの脱却
-@@https://aws-observability.github.io/observability-best-practices/ja/@@
+
 
 ## Awesome
 
