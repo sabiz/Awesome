@@ -80,7 +80,7 @@
   - ソシオメディア | ヒューマンインターフェース ガイドライン
   - 絵文字を支える技術について｜nona
   - AWS Observability Best Practices
-@@@https://keepachangelog.com/ja/@@@
+  - Error
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
@@ -221,6 +221,7 @@
 | [ソシオメディア \| ヒューマンインターフェース ガイドライン](https://www.sociomedia.co.jp/category/shig) | <img width="256px" src="https://www.sociomedia.co.jp/assets/images/shig/shig-cover-ogimage-20191007.png"> | ソシオメディアがまとめている、ヒューマンインターフェースをデザインする際の指針です。これらは、インターフェースデザインに関する様々な文献と、実際のデザインコンサルティングで得た知見をもとに、ソシオメディアが独自に編纂したものです。継続的に追加・更新していきます。 |
 | [絵文字を支える技術について｜nona](https://note.com/ttuusskk/n/n1bff5d8e638c) | <img width="256px" src="https://assets.st-note.com/production/uploads/images/123423994/rectangle_large_type_2_a68dae3d2e552f1fa5bc15407f867d66.png?fit=bounds&quality=85&width=1280"> | はじめに  こちらはmhidakaが建立したAdvent Calendar Day.3となります。  こんにちは、はじめまして、のなと申します。mhidakaさんのTweetを見つけて、初めてAdvent Calendarなるものを書いています。なにかお作法間違っていたら大目に見てください、よろしくお願いします。 軽く自己紹介をさせていただくと、普段はGoogleでAndroidのTextまわりの開発を行っており、DroidKaigiやShibuya APKで発表させていただいたりしています。最近はほぼ絵文字の話しかしてないので、絵文字おじさんと思われてそうですが、普段の仕事は絵文字に |
 | [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/ja/) | <img width="256px" src=""> | AWS Observability best practices |
+| [Error](https://keepachangelog.com/ja/) | <img width="256px" src=""> |  |
 
 ## OSINT
 
