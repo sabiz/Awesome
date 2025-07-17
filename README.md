@@ -80,7 +80,7 @@
   - ソシオメディア | ヒューマンインターフェース ガイドライン
   - 絵文字を支える技術について｜nona
   - AWS Observability Best Practices
-@@@https://keepachangelog.com/ja/1.1.0/@@@
+  - 変更履歴を記録する
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
@@ -222,6 +222,7 @@
 | [絵文字を支える技術について｜nona](https://note.com/ttuusskk/n/n1bff5d8e638c) | <img width="256px" src="https://assets.st-note.com/production/uploads/images/123423994/rectangle_large_type_2_a68dae3d2e552f1fa5bc15407f867d66.png?fit=bounds&quality=85&width=1280"> | はじめに  こちらはmhidakaが建立したAdvent Calendar Day.3となります。  こんにちは、はじめまして、のなと申します。mhidakaさんのTweetを見つけて、初めてAdvent Calendarなるものを書いています。なにかお作法間違っていたら大目に見てください、よろしくお願いします。 軽く自己紹介をさせていただくと、普段はGoogleでAndroidのTextまわりの開発を行っており、DroidKaigiやShibuya APKで発表させていただいたりしています。最近はほぼ絵文字の話しかしてないので、絵文字おじさんと思われてそうですが、普段の仕事は絵文字に |
 | [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/ja/) | <img width="256px" src=""> | AWS Observability best practices |
 | [Error](https://keepachangelog.com/ja/) | <img width="256px" src=""> |  |
+| [変更履歴を記録する](https://keepachangelog.com/ja/1.1.0/) | <img width="256px" src="https://keepachangelog.com/assets/images/keep-a-changelog-opengraph-851f2d20.png"> | 友達がGit記録を変更履歴に丸写しするのを止めさせよう。 |
 
 ## OSINT
 
