@@ -80,6 +80,7 @@
   - ソシオメディア | ヒューマンインターフェース ガイドライン
   - 絵文字を支える技術について｜nona
   - AWS Observability Best Practices
+@@@https://keepachangelog.com/ja/@@@
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
