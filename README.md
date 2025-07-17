@@ -9,6 +9,7 @@
   - Awesome Software and Architectural Design Patterns
   - Awesome Vehicle Security
   - Web Hacker's Weapons
+@@@https://dumbpasswordrules.com/sites-list/@@@
 - [Checker/Linter](#checkerlinter)
   - Dockle
   - OpenSSF Scorecard
