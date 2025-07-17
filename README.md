@@ -9,7 +9,7 @@
   - Awesome Software and Architectural Design Patterns
   - Awesome Vehicle Security
   - Web Hacker's Weapons
-@@@https://dumbpasswordrules.com/sites-list/@@@
+  - Dumb Password Rules
 - [Checker/Linter](#checkerlinter)
   - Dockle
   - OpenSSF Scorecard
@@ -107,6 +107,7 @@
 | [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) | <img width="256px" src="https://opengraph.githubassets.com/aa8ddf8630a1f3c6432be46a902ad7a854a321bdad4c239a6ad4c6a272881fd4/DovAmir/awesome-design-patterns"> | A curated list of software and architecture related design patterns. |
 | [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) | <img width="256px" src="https://opengraph.githubassets.com/7d380b5afe1918ed0a3b82b0753cafabd00fce518e093507ab2e58fe352c1be2/jaredthecoder/awesome-vehicle-security" > | 🚗 A curated list of resources for learning about vehicle security and car hacking. |
 | [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) | <img width="256px" src="https://repository-images.githubusercontent.com/253024215/5558aa80-559e-11eb-9a86-d4705ed9f1f6"> | ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting |
+| [Dumb Password Rules](https://dumbpasswordrules.com/sites-list/) | <img width="256px" src="https://dumbpasswordrules.com/static/img/logo-large.png"> | A compilation of sites with dumb password rules. |
 
 ## Checker/Linter
 
