@@ -87,6 +87,7 @@
   - urlscan.io
 - [Other Tools](#other-tools)
   - piping-server
+@@@https://excalidraw.com/@@@
 - [Slides](#slides)
   - 確率統計 - 機械学習その前に -
   - エンジニアとしてこの先生きのこるために
