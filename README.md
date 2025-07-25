@@ -87,7 +87,7 @@
   - urlscan.io
 - [Other Tools](#other-tools)
   - piping-server
-@@@https://excalidraw.com/@@@
+  - Excalidraw — Collaborative whiteboarding made easy
 - [Slides](#slides)
   - 確率統計 - 機械学習その前に -
   - エンジニアとしてこの先生きのこるために
@@ -239,6 +239,7 @@
 | Name | 👀 | About |
 |------|-----|-------|
 | [piping-server](https://github.com/nwtgck/piping-server-rust) | <img width="256px" src="https://opengraph.githubassets.com/f04d4945f48766c9916da66a7b4c81f3918d9c7a8f73ef659535a6173ae3087b/nwtgck/piping-server-rust"> | Infinitely transfer between every device over pure HTTP with pipes or browsers |
+| [Excalidraw — Collaborative whiteboarding made easy](https://excalidraw.com/) | <img width="256px" src="https://excalidraw.com/og-image-3.png"> | Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. |
 
 ## Slides
 
