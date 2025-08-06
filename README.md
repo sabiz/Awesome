@@ -88,7 +88,7 @@
 - [Other Tools](#other-tools)
   - piping-server
   - Excalidraw — Collaborative whiteboarding made easy
-@@@https://github.com/jpillora/chisel@@@
+  - GitHub - jpillora/chisel: A fast TCP/UDP tunnel over HTTP
 - [Slides](#slides)
   - 確率統計 - 機械学習その前に -
   - エンジニアとしてこの先生きのこるために
@@ -241,6 +241,7 @@
 |------|-----|-------|
 | [piping-server](https://github.com/nwtgck/piping-server-rust) | <img width="256px" src="https://opengraph.githubassets.com/f04d4945f48766c9916da66a7b4c81f3918d9c7a8f73ef659535a6173ae3087b/nwtgck/piping-server-rust"> | Infinitely transfer between every device over pure HTTP with pipes or browsers |
 | [Excalidraw — Collaborative whiteboarding made easy](https://excalidraw.com/) | <img width="256px" src="https://excalidraw.com/og-image-3.png"> | Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. |
+| [GitHub - jpillora/chisel: A fast TCP/UDP tunnel over HTTP](https://github.com/jpillora/chisel) | <img width="256px" src="https://opengraph.githubassets.com/7e77b0197c346e574f36aa2b6b491285b17add2ebf9045a1de31b6abbfdb0f9c/jpillora/chisel"> | A fast TCP/UDP tunnel over HTTP. Contribute to jpillora/chisel development by creating an account on GitHub. |
 
 ## Slides
 
