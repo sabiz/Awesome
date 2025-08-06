@@ -88,6 +88,7 @@
 - [Other Tools](#other-tools)
   - piping-server
   - Excalidraw — Collaborative whiteboarding made easy
+@@@https://github.com/jpillora/chisel@@@
 - [Slides](#slides)
   - 確率統計 - 機械学習その前に -
   - エンジニアとしてこの先生きのこるために
