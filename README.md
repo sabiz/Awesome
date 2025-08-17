@@ -95,7 +95,7 @@
   - 予防に勝る防御なし - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHPerKaigi 2022 - Speaker Deck
   - 技術をわかりやすく伝えるためテクニカルライティング
   - レガシーコードからの脱却
-
+@@@https://speakerdeck.com/flatt_security/apurikesiyongu-you-no-rozitukunocui-ruo-xing-wofang-gukai-fa-zhe-notamenosekiyuriteiguan-dian@@@
 
 ## Awesome
 
