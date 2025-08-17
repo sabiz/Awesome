@@ -82,6 +82,7 @@
   - 絵文字を支える技術について｜nona
   - AWS Observability Best Practices
   - 変更履歴を記録する
+@@@https://romgrk.com/posts/optimizing-javascript?s=09#0-avoid-work@@@
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
