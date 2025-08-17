@@ -83,7 +83,7 @@
   - AWS Observability Best Practices
   - 変更履歴を記録する
   - Optimizing Javascript for fun and for profit
-@@@https://smarthr.design/accessibility/check-list/@@@
+  - ウェブアクセシビリティ簡易チェックリスト | アクセシビリティ | SmartHR Design System
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
@@ -229,6 +229,7 @@
 | [AWS Observability Best Practices](https://aws-observability.github.io/observability-best-practices/ja/) | <img width="256px" src=""> | AWS Observability best practices |
 | [変更履歴を記録する](https://keepachangelog.com/ja/) | <img width="256px" src="https://keepachangelog.com/assets/images/keep-a-changelog-opengraph-851f2d20.png"> | 友達がGit記録を変更履歴に丸写しするのを止めさせよう。 |
 | [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript?s=09#0-avoid-work) | <img width="256px" src=""> |  |
+| [ウェブアクセシビリティ簡易チェックリスト | アクセシビリティ | SmartHR Design System](https://smarthr.design/accessibility/check-list/) | <img width="256px" src="https://res.cloudinary.com/kufu/image/upload/w_1200,c_fit,fl_relative,l_text:sds:notosansbold.otf_72_bold_normal_center:%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E7%B0%A1%E6%98%93%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88,w_1100/fl_layer_apply,g_center,y_-0.05/sds/sds_ogp_base.jpg"> | ウェブアクセシビリティを確保、向上させるためのコンテンツの簡易チェックリストです。このリストに記載されている項目を満たすことで、おおよそSmartHRのウェブアクセシビリティ方針に掲げた品質はクリア可能です。 |
 
 ## OSINT
 
