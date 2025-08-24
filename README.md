@@ -87,7 +87,7 @@
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
-  - Error
+  - Censys Search
 - [Other Tools](#other-tools)
   - piping-server
   - Excalidraw — Collaborative whiteboarding made easy
@@ -238,8 +238,7 @@
 |------|-----|-------|
 | [IPinfo.io](https://ipinfo.io/) | <img width="256px" src="https://ipinfo.io/static/images/og_logo.png"> | Get accurate IP geolocation with our API. Ideal for personalization, fraud prevention, and analytics. Try IPinfo today for precise IP location data.. |
 | [urlscan.io](https://urlscan.io/) |  | urlscan.io - Website scanner for suspicious and malicious URLs |
-
-| [Error](https://search.censys.io/) | <img width="256px" src=""> | 403 Forbidden |
+| [Censys Search](https://search.censys.io/) | <img width="256px" src="https://search.censys.io/static/img/og-censys-mark-2025.png"> | Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security. |
 
 ## Other Tools
 
