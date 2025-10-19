@@ -34,7 +34,7 @@
   - OpenSecurity
   - IPinfo
   - PageSpeed Insights
-@@@https://www.browserscan.net/@@@
+  - Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
@@ -151,6 +151,7 @@
 | [OpenSecurity](https://opensecurity.in/) | <img width="256px" src="https://opensecurity.in/static/img/opensecurity-logo.png"> | We do quality pentests, code review, security engineering, security training and security research |
 | [IPinfo](https://ipinfo.io/) | <img width="256px" src="https://ipinfo.io/static/images/og_logo.png"> | Get accurate IP address information with IPinfo. Trusted by 400,000+ users, we handle more than 40 billion API requests monthly. Sign up for free account today. |
 | [PageSpeed Insights](https://pagespeed.web.dev/) | | |
+| [Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security](https://www.browserscan.net/) | <img width="256px" src="https://www.browserscan.net/og.png"> | Enhance your online security with the best BrowserScan fingerprint checking tool. Protect and prevent your privacy from leaking with our advanced technology. |
 
 ## Images
 
