@@ -34,6 +34,7 @@
   - OpenSecurity
   - IPinfo
   - PageSpeed Insights
+@@@https://www.browserscan.net/@@@
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
