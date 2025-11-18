@@ -10,6 +10,7 @@
   - Awesome Vehicle Security
   - Web Hacker's Weapons
   - Dumb Password Rules
+@@@https://github.com/dahatake/GenerativeAI-Prompt-Sample-Japanese@@@
 - [Checker/Linter](#checkerlinter)
   - Dockle
   - OpenSSF Scorecard
