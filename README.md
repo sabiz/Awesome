@@ -10,7 +10,7 @@
   - Awesome Vehicle Security
   - Web Hacker's Weapons
   - Dumb Password Rules
-@@@https://terminaltrove.com/@@@
+  - Terminal Trove - The $HOME of all things in the terminal.
   - GitHub - dahatake/GenerativeAI-Prompt-Sample-Japanese: ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
 - [Checker/Linter](#checkerlinter)
   - Dockle
@@ -119,6 +119,7 @@
 | [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) | <img width="256px" src="https://repository-images.githubusercontent.com/253024215/5558aa80-559e-11eb-9a86-d4705ed9f1f6"> | ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting |
 | [Dumb Password Rules](https://dumbpasswordrules.com/sites-list/) | <img width="256px" src="https://dumbpasswordrules.com/static/img/logo-large.png"> | A compilation of sites with dumb password rules. |
 | [GitHub - dahatake/GenerativeAI-Prompt-Sample-Japanese: ChatGPTやCopilotなど各種生成AI用の「日本語\]の Prompt のサンプル](https://github.com/dahatake/GenerativeAI-Prompt-Sample-Japanese) | <img width="256px" src="https://opengraph.githubassets.com/d3a2467666f624936c70860736e712302cb3997bd90edda997de99b0b8f55131/dahatake/GenerativeAI-Prompt-Sample-Japanese"> | ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル. Contribute to dahatake/GenerativeAI-Prompt-Sample-Japanese development by creating an account on GitHub. |
+| [Terminal Trove - The $HOME of all things in the terminal.](https://terminaltrove.com/) | <img width="256px" src="https://terminaltrove.com/og/og.png"> | Terminal Trove showcases the best of the terminal, Discover a collection of CLI, TUI, and more developer tools at Terminal Trove. |
 
 ## Checker/Linter
 
