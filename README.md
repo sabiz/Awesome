@@ -10,6 +10,7 @@
   - Awesome Vehicle Security
   - Web Hacker's Weapons
   - Dumb Password Rules
+@@@https://terminaltrove.com/@@@
   - GitHub - dahatake/GenerativeAI-Prompt-Sample-Japanese: ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
 - [Checker/Linter](#checkerlinter)
   - Dockle
