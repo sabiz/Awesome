@@ -37,6 +37,7 @@
   - IPinfo
   - PageSpeed Insights
   - Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security
+  @@@https://binary.ninja/@@@
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
