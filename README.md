@@ -89,6 +89,7 @@
   - Optimizing Javascript for fun and for profit
   - ウェブアクセシビリティ簡易チェックリスト | アクセシビリティ | SmartHR Design System
   - Elements of Rust – Core Types and Traits
+@@@https://digital-defense.io/@@@
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
