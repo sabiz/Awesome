@@ -89,7 +89,7 @@
   - Optimizing Javascript for fun and for profit
   - ウェブアクセシビリティ簡易チェックリスト | アクセシビリティ | SmartHR Design System
   - Elements of Rust – Core Types and Traits
-@@@https://digital-defense.io/@@@
+  - Digital Defense - The ultimate personal security checklist to secure your digital life
 - [OSINT](#osint)
   - IPinfo.io
   - urlscan.io
@@ -242,6 +242,7 @@
 | [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript?s=09#0-avoid-work) | <img width="256px" src=""> |  |
 | [ウェブアクセシビリティ簡易チェックリスト \| アクセシビリティ \| SmartHR Design System](https://smarthr.design/accessibility/check-list/) | <img width="256px" src="https://res.cloudinary.com/kufu/image/upload/w_1200,c_fit,fl_relative,l_text:sds:notosansbold.otf_72_bold_normal_center:%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E7%B0%A1%E6%98%93%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88,w_1100/fl_layer_apply,g_center,y_-0.05/sds/sds_ogp_base.jpg"> | ウェブアクセシビリティを確保、向上させるためのコンテンツの簡易チェックリストです。このリストに記載されている項目を満たすことで、おおよそSmartHRのウェブアクセシビリティ方針に掲げた品質はクリア可能です。 |
 | [Elements of Rust – Core Types and Traits](https://rustcurious.com/elements/) | <img width="256px" src="https://rustcurious.com/elements/thumbnail.webp"> | A complete map of the Rust type system |
+| [Digital Defense - The ultimate personal security checklist to secure your digital life](https://digital-defense.io/) | <img width="256px" src="/banner.png"> | The ultimate personal security checklist to secure your digital life |
 
 ## OSINT
 
