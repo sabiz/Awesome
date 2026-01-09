@@ -38,7 +38,7 @@
   - PageSpeed Insights
   - Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security
   - Binary Ninja
-  - Error
+  - Project CodeGuard: Security Rules for AI Coding Agents
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
@@ -161,7 +161,7 @@
 | [PageSpeed Insights](https://pagespeed.web.dev/) | | |
 | [Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security](https://www.browserscan.net/) | <img width="256px" src="https://www.browserscan.net/og.png"> | Enhance your online security with the best BrowserScan fingerprint checking tool. Protect and prevent your privacy from leaking with our advanced technology. |
 | [Binary Ninja](https://binary.ninja/) | <img width="256px" src="https://binary.ninja/icons/android-chrome-512x512.png"> | Binary Ninja is a modern reverse engineering platform with a scriptable and extensible decompiler. |
-| [Error](https://project-codeguard.org/) | <img width="256px" src=""> |  |
+| [Project CodeGuard: Security Rules for AI Coding Agents](https://project-codeguard.org/) |  | Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance. |
 
 ## Images
 
