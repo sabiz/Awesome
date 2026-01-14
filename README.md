@@ -12,6 +12,7 @@
   - Dumb Password Rules
   - Terminal Trove - The $HOME of all things in the terminal.
   - GitHub - dahatake/GenerativeAI-Prompt-Sample-Japanese: ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+@@@https://unjs.io/@@@
 - [Checker/Linter](#checkerlinter)
   - Dockle
   - OpenSSF Scorecard
