@@ -69,6 +69,8 @@
     - Texthero
     - Vaex
     - GitHub - getmoto/moto: A library that allows you to easily mock out tests based on AWS infrastructure.
+  - [Rust](#rust)
+@@@https://github.com/kreuzberg-dev/kreuzberg@@@
 - [References/Documents](#referencesdocuments)
   - Al-Khaser
   - API Security Checklist
@@ -221,6 +223,12 @@
 | [Texthero](https://texthero.org/) | <img width="256px" src="https://texthero.org/img/T.png"> | Text preprocessing, representation and visualization from zero to hero. |
 | [Vaex](https://github.com/vaexio/vaex) | <img width="256px" src="https://opengraph.githubassets.com/3dfd0460a3ee64b6603742724e11e59aa745d3b06a116f2d3bef09254e7df769/vaexio/vaex"> | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second |
 | [GitHub - getmoto/moto: A library that allows you to easily mock out tests based on AWS infrastructure.](https://github.com/getmoto/moto) | <img width="256px" src="https://repository-images.githubusercontent.com/8277372/7d44a742-c5c4-460a-abe0-1d2d98d5f42d"> | A library that allows you to easily mock out tests based on AWS infrastructure. - getmoto/moto |
+
+### Rust
+
+| Name | 👀 | About |
+|------|-----|-------|
+
 
 ## References/Documents
 
