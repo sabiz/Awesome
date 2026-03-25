@@ -40,7 +40,7 @@
   - Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security
   - Binary Ninja
   - Project CodeGuard: Security Rules for AI Coding Agents
-@@@https://github.com/KeygraphHQ/shannon@@@
+  - GitHub - KeygraphHQ/shannon: Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
@@ -165,6 +165,7 @@
 | [Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security](https://www.browserscan.net/) | <img width="256px" src="https://www.browserscan.net/og.png"> | Enhance your online security with the best BrowserScan fingerprint checking tool. Protect and prevent your privacy from leaking with our advanced technology. |
 | [Binary Ninja](https://binary.ninja/) | <img width="256px" src="https://binary.ninja/icons/android-chrome-512x512.png"> | Binary Ninja is a modern reverse engineering platform with a scriptable and extensible decompiler. |
 | [Project CodeGuard: Security Rules for AI Coding Agents](https://project-codeguard.org/) |  | Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance. |
+| [GitHub - KeygraphHQ/shannon: Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.](https://github.com/KeygraphHQ/shannon) | <img width="256px" src="https://opengraph.githubassets.com/3fc333e4d54c32232394805ac54e3ca9e5f5aebe02f53acfb557e302ee285ddc/KeygraphHQ/shannon"> | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities bef... |
 
 ## Images
 
