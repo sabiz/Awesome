@@ -70,7 +70,7 @@
     - Vaex
     - GitHub - getmoto/moto: A library that allows you to easily mock out tests based on AWS infrastructure.
   - [Rust](#rust)
-@@@https://github.com/kreuzberg-dev/kreuzberg@@@
+  - GitHub - kreuzberg-dev/kreuzberg: A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 - [References/Documents](#referencesdocuments)
   - Al-Khaser
   - API Security Checklist
@@ -229,6 +229,7 @@
 | Name | 👀 | About |
 |------|-----|-------|
 
+| [GitHub - kreuzberg-dev/kreuzberg: A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.](https://github.com/kreuzberg-dev/kreuzberg) | <img width="256px" src="https://repository-images.githubusercontent.com/925434317/6b73b26f-a10e-4fe6-8d45-33fabb0bc161"> | A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Rub... |
 
 ## References/Documents
 
