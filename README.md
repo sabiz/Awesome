@@ -40,6 +40,7 @@
   - Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security
   - Binary Ninja
   - Project CodeGuard: Security Rules for AI Coding Agents
+@@@https://github.com/KeygraphHQ/shannon@@@
 - [Images](#images)
   - [Icons](#icons)
     - Iconify
